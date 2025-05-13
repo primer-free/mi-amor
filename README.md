@@ -1,8 +1,7 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Carta para Mi Amor</title>
   <style>
     body {
       background: linear-gradient(to bottom right, #ffd6e0, #ffe7ec);
@@ -60,6 +59,3 @@
   <p class="firma">
     Con todo mi amor,<br>
     fredy.
-  </p>
-</body>
-</html>
